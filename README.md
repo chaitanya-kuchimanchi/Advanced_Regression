@@ -12,7 +12,7 @@
 
 ## General Information
 - The dataset of housing sales is provided by the team.
-- Need to identify the significant variables that drive the dependant variable.
+- Need to identify the significant variables that drive the dependant variable...
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
